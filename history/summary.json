@@ -5,7 +5,7 @@
     "slug": "fortify",
     "status": "up",
     "uptime": "100.00%",
-    "time": 854
+    "time": 920
   },
   {
     "name": "Fortify - API",
@@ -13,7 +13,7 @@
     "slug": "fortify-api",
     "status": "up",
     "uptime": "100.00%",
-    "time": 385
+    "time": 388
   },
   {
     "name": "Fortify - GSI Endpoint",
@@ -21,6 +21,6 @@
     "slug": "fortify-gsi-endpoint",
     "status": "up",
     "uptime": "100.00%",
-    "time": 384
+    "time": 394
   }
 ]
