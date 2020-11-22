@@ -7,9 +7,9 @@ sites:
   - name: Fortify
     url: https://fortify.gg
   - name: Fortify - API
-    url: https://api.fortify.gg/graphql
+    url: https://api.fortify.gg/graphql?query=%7Bversion%7D
   - name: Fortify - GSI Endpoint
-    url: https://gsi.fortify.gg
+    url: https://gsi.fortify.gg/health
 assignees: # Users to assign downtime issues (optional)
   - ThomasK33
 status-website:
