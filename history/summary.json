@@ -5,22 +5,22 @@
     "slug": "fortify",
     "status": "up",
     "uptime": "100.00%",
-    "time": 746
+    "time": 761
   },
   {
     "name": "Fortify - API",
-    "url": "https://api.fortify.gg/graphql",
+    "url": "https://api.fortify.gg/graphql?query=%7Bversion%7D",
     "slug": "fortify-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "time": 438
+    "time": 404
   },
   {
     "name": "Fortify - GSI Endpoint",
-    "url": "https://gsi.fortify.gg",
+    "url": "https://gsi.fortify.gg/health",
     "slug": "fortify-gsi-endpoint",
     "status": "down",
     "uptime": "100.00%",
-    "time": 445
+    "time": 400
   }
 ]
