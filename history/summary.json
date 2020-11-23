@@ -1,8 +1,8 @@
 [
   {
-    "name": "Fortify",
+    "name": "Fortify - Frontend",
     "url": "https://fortify.gg",
-    "slug": "fortify",
+    "slug": "fortify-frontend",
     "status": "up",
     "uptime": "100.00%",
     "time": 896

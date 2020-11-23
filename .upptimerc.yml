@@ -4,7 +4,7 @@ repo: status # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Fortify
+  - name: Fortify - Frontend
     url: https://fortify.gg
   - name: Fortify - API
     url: https://api.fortify.gg/graphql?query=%7Bversion%7D
@@ -28,6 +28,5 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
