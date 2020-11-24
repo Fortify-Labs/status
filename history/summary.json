@@ -1,26 +1,26 @@
 [
   {
-    "name": "Fortify - Frontend",
+    "name": "Frontend",
     "url": "https://fortify.gg",
-    "slug": "fortify-frontend",
+    "slug": "frontend",
     "status": "up",
     "uptime": "100.00%",
-    "time": 444
+    "time": 533
   },
   {
-    "name": "Fortify - API",
+    "name": "API",
     "url": "https://api.fortify.gg/graphql?query=%7Bversion%7D",
-    "slug": "fortify-api",
+    "slug": "api",
     "status": "up",
     "uptime": "100.00%",
-    "time": 444
+    "time": 401
   },
   {
-    "name": "Fortify - GSI Endpoint",
+    "name": "GSI Endpoint",
     "url": "https://gsi.fortify.gg/health",
-    "slug": "fortify-gsi-endpoint",
+    "slug": "gsi-endpoint",
     "status": "up",
     "uptime": "100.00%",
-    "time": 433
+    "time": 375
   }
 ]
