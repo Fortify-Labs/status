@@ -5,7 +5,7 @@
     "slug": "frontend",
     "status": "up",
     "uptime": "100.00%",
-    "time": 705
+    "time": 714
   },
   {
     "name": "API",
@@ -13,7 +13,7 @@
     "slug": "api",
     "status": "up",
     "uptime": "100.00%",
-    "time": 500
+    "time": 519
   },
   {
     "name": "GSI Endpoint",
@@ -21,6 +21,6 @@
     "slug": "gsi-endpoint",
     "status": "up",
     "uptime": "100.00%",
-    "time": 482
+    "time": 485
   }
 ]
