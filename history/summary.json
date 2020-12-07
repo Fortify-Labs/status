@@ -9,11 +9,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 698,
-    "timeDay": 701,
-    "timeWeek": 700,
-    "timeMonth": 698,
-    "timeYear": 698
+    "time": 705,
+    "timeDay": 807,
+    "timeWeek": 703,
+    "timeMonth": 705,
+    "timeYear": 705
   },
   {
     "name": "API",
@@ -25,11 +25,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 508,
-    "timeDay": 515,
-    "timeWeek": 544,
-    "timeMonth": 508,
-    "timeYear": 508
+    "time": 509,
+    "timeDay": 526,
+    "timeWeek": 535,
+    "timeMonth": 509,
+    "timeYear": 509
   },
   {
     "name": "GSI Endpoint",
@@ -41,10 +41,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 466,
-    "timeDay": 357,
-    "timeWeek": 467,
-    "timeMonth": 466,
-    "timeYear": 466
+    "time": 465,
+    "timeDay": 461,
+    "timeWeek": 455,
+    "timeMonth": 465,
+    "timeYear": 465
   }
 ]
