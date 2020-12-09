@@ -2,6 +2,7 @@
   {
     "name": "Frontend",
     "url": "https://fortify.gg",
+    "icon": "https://favicons.githubusercontent.com/fortify.gg",
     "slug": "frontend",
     "status": "up",
     "uptime": "100.00%",
@@ -9,15 +10,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 715,
-    "timeDay": 853,
-    "timeWeek": 720,
-    "timeMonth": 715,
-    "timeYear": 715
+    "time": 731,
+    "timeDay": 971,
+    "timeWeek": 776,
+    "timeMonth": 731,
+    "timeYear": 731,
+    "dailyMinutesDown": {}
   },
   {
     "name": "API",
     "url": "https://api.fortify.gg/graphql?query=%7Bversion%7D",
+    "icon": "https://favicons.githubusercontent.com/api.fortify.gg",
     "slug": "api",
     "status": "up",
     "uptime": "100.00%",
@@ -25,15 +28,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 522,
-    "timeDay": 702,
-    "timeWeek": 553,
-    "timeMonth": 522,
-    "timeYear": 522
+    "time": 526,
+    "timeDay": 590,
+    "timeWeek": 572,
+    "timeMonth": 526,
+    "timeYear": 526,
+    "dailyMinutesDown": {}
   },
   {
     "name": "GSI Endpoint",
     "url": "https://gsi.fortify.gg/health",
+    "icon": "https://favicons.githubusercontent.com/gsi.fortify.gg",
     "slug": "gsi-endpoint",
     "status": "up",
     "uptime": "100.00%",
@@ -41,10 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 474,
-    "timeDay": 600,
-    "timeWeek": 459,
-    "timeMonth": 474,
-    "timeYear": 474
+    "time": 484,
+    "timeDay": 623,
+    "timeWeek": 496,
+    "timeMonth": 484,
+    "timeYear": 484,
+    "dailyMinutesDown": {}
   }
 ]
