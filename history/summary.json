@@ -40,17 +40,17 @@
     "url": "https://gsi.fortify.gg/health",
     "icon": "https://favicons.githubusercontent.com/gsi.fortify.gg",
     "slug": "gsi-endpoint",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 489,
-    "timeDay": 634,
-    "timeWeek": 573,
-    "timeMonth": 498,
-    "timeYear": 489,
+    "time": 492,
+    "timeDay": 640,
+    "timeWeek": 580,
+    "timeMonth": 503,
+    "timeYear": 492,
     "dailyMinutesDown": {}
   }
 ]
