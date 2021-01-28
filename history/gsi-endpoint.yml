@@ -1,7 +1,7 @@
 url: https://gsi.fortify.gg/health
-status: up
-code: 200
-responseTime: 584
-lastUpdated: 2021-01-28T10:32:53.043Z
+status: down
+code: 503
+responseTime: 954
+lastUpdated: 2021-01-28T11:30:05.162Z
 startTime: Tue Nov 24 2020 00:01:41 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
