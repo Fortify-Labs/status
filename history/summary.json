@@ -4,17 +4,17 @@
     "url": "https://fortify.gg",
     "icon": "https://favicons.githubusercontent.com/fortify.gg",
     "slug": "frontend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 692,
-    "timeDay": 573,
-    "timeWeek": 594,
-    "timeMonth": 644,
-    "timeYear": 692,
+    "time": 691,
+    "timeDay": 589,
+    "timeWeek": 595,
+    "timeMonth": 643,
+    "timeYear": 691,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/api.fortify.gg",
     "slug": "api",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
     "time": 490,
     "timeDay": 384,
     "timeWeek": 484,
     "timeMonth": 488,
     "timeYear": 490,
     "dailyMinutesDown": {
-      "2021-02-12": 0
+      "2021-02-12": 21
     }
   },
   {
