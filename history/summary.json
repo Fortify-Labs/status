@@ -22,17 +22,17 @@
     "url": "https://api.fortify.gg/graphql?query=%7Bversion%7D",
     "icon": "https://favicons.githubusercontent.com/api.fortify.gg",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.26%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.94%",
-    "time": 487,
-    "timeDay": 420,
-    "timeWeek": 442,
-    "timeMonth": 483,
-    "timeYear": 487,
+    "time": 486,
+    "timeDay": 399,
+    "timeWeek": 436,
+    "timeMonth": 481,
+    "timeYear": 486,
     "dailyMinutesDown": {
       "2021-02-12": 75
     }
