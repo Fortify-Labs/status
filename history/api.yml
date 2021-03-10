@@ -1,7 +1,7 @@
 url: https://api.fortify.gg/graphql?query=%7Bversion%7D
 status: up
 code: 200
-responseTime: 400
-lastUpdated: 2021-03-09T23:04:46.229Z
+responseTime: 372
+lastUpdated: 2021-03-10T23:03:48.262Z
 startTime: Tue Nov 24 2020 00:01:30 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
