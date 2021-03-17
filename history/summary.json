@@ -4,18 +4,20 @@
     "url": "https://fortify.gg",
     "icon": "https://favicons.githubusercontent.com/fortify.gg",
     "slug": "frontend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 739,
     "timeDay": 1329,
     "timeWeek": 1446,
     "timeMonth": 899,
     "timeYear": 739,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-17": 3
+    }
   },
   {
     "name": "API",
@@ -44,7 +46,7 @@
     "url": "https://gsi.fortify.gg/health",
     "icon": "https://favicons.githubusercontent.com/gsi.fortify.gg",
     "slug": "gsi-endpoint",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
