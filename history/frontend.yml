@@ -1,7 +1,7 @@
 url: https://fortify.gg
-status: up
-code: 200
-responseTime: 784
-lastUpdated: 2021-06-15T23:05:50.823Z
+status: down
+code: 503
+responseTime: 430
+lastUpdated: 2021-06-16T15:11:26.928Z
 startTime: Tue Nov 24 2020 00:01:18 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
