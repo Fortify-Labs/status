@@ -6,9 +6,9 @@
     "slug": "frontend",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1018,
     "timeDay": 1352,
@@ -16,7 +16,6 @@
     "timeMonth": 1094,
     "timeYear": 1018,
     "dailyMinutesDown": {
-      "2021-11-10": 9,
       "2021-07-30": 20,
       "2021-06-16": 28,
       "2021-05-03": 28,
@@ -28,9 +27,9 @@
     "url": "https://api.fortify.gg/graphql?query=%7Bversion%7D",
     "icon": "https://favicons.githubusercontent.com/api.fortify.gg",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
@@ -40,6 +39,7 @@
     "timeMonth": 473,
     "timeYear": 479,
     "dailyMinutesDown": {
+      "2021-11-10": 0,
       "2021-02-20": 20,
       "2021-02-19": 506,
       "2021-02-12": 75
@@ -50,9 +50,9 @@
     "url": "https://gsi.fortify.gg/health",
     "icon": "https://favicons.githubusercontent.com/gsi.fortify.gg",
     "slug": "gsi-endpoint",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -61,6 +61,8 @@
     "timeWeek": 506,
     "timeMonth": 465,
     "timeYear": 472,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-10": 0
+    }
   }
 ]
